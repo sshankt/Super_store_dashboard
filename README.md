@@ -24,8 +24,7 @@ Dynamic Dashboards: Created engaging and interactive visuals.
 Business Strategy: Provided data-backed recommendations for growth.
 
 📊 Power BI Dashboard Highlights
-
-A snapshot of the Power BI dashboard showcasing top-performing categories, regions, and overall sales trends.
+https://www.linkedin.com/feed/update/urn:li:activity:7269160850320424960/
 
 ## 📂 Project Files
 
